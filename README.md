@@ -1,7 +1,7 @@
 # Home
-Apple Home related projects
+Apple HomeKit related projects
 
-## [AF104](AF104/readme.md)  
+## [AF104](AF104/readme.md)
 []()  
 []()  
 []()  
