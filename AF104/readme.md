@@ -3,7 +3,7 @@
 
 ## Installation
 
-[2021-09](https://github.com/griemide/Shelly/tree/master/installation)  
+[2021-09](https://github.com/griemide/Shelly/tree/master/installation/readme.md)  
 []()  
 []()  
 []()  
