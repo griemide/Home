@@ -7,11 +7,11 @@ Apple [HomeKit](https://de.wikipedia.org/wiki/HomeKit) / Homebridge / NodeRed
 
 ## [AF104](AF104/readme.md)
   
-## [MPS37](Shelly/tree/master/Projects)  
+## [MPS37](https://github.com/griemide/Shelly/tree/master/Projects)  
   
-## [MPS3](Shelly/tree/master/Projects)
+## [MPS3](https://github.com/griemide/Shelly/tree/master/Projects)
   
-## [GS17](Hardware/tree/master/Funkschalter/readme.md)  
+## [GS17](https://github.com/griemide/Hardware/blob/master/Funkschalter/readme.md)  
 []()  
 []()  
 []()  
