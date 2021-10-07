@@ -1,6 +1,6 @@
 # [Home](https://www.apple.com/de/ios/home/)
 Smart Home related projects using  
-Apple [HomeKit](https://de.wikipedia.org/wiki/HomeKit) / [Homebridge](https://homebridge.io/) / [Node-RED](https://de.wikipedia.org/wiki/Node-RED)
+[HomeKit](https://de.wikipedia.org/wiki/HomeKit) / [Homebridge](https://homebridge.io/) / [Node-RED](https://de.wikipedia.org/wiki/Node-RED) / [MQTT](https://de.wikipedia.org/wiki/MQTT)  
 
 <a href="https://www.apple.com/de/ios/home/">
 <img width="100" alt="2021-09-21" src="images/Apple_HomeKit_logo.svg"> 
