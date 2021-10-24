@@ -1,5 +1,7 @@
 # AF104
 
+[Wiki](https://github.com/griemide/Home/wiki/AF104) 
+
 
 ## Installation
 
