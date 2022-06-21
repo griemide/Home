@@ -2,6 +2,9 @@
 Smart Home related projects using  
 [HomeKit](https://de.wikipedia.org/wiki/HomeKit) / [Homebridge](https://homebridge.io/) / [Node-RED](https://de.wikipedia.org/wiki/Node-RED) / [MQTT](https://de.wikipedia.org/wiki/MQTT) / [Mongoose OS](https://mongoose-os.com/) 
 
+
+Shelly HomeKit Release Notes [2.11.0](https://github.com/mongoose-os-apps/shelly-homekit/releases/tag/2.11.0) released 2022-06-19
+
 <a href="https://www.apple.com/de/ios/home/">
 <img width="100" alt="2021-09-21" src="images/Apple_HomeKit_logo.svg"> 
 
