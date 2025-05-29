@@ -14,3 +14,12 @@
 
 ## mos
 [mos](https://github.com/griemide/mos)
+
+## WLAN Hinweise
+
+Windows 10  
+**Netzwerk-Passwort auslesen** (auch ohne Adsmin-Rechte möglich)  
+```CMD```  
+```netsh wlan show profile```  
+```netsh wlan show profile "HP LaserJet P1505n" key=clear```  
+Ausgabe nach Stichwort **"Schlüsselinhalt :"** durchsuchen
