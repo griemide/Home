@@ -1,6 +1,6 @@
 # [Home](https://www.apple.com/de/ios/home/)
 Smart Home related projects using  
-[HomeKit](https://de.wikipedia.org/wiki/HomeKit) / [Homebridge](https://homebridge.io/) / [Node-RED](https://de.wikipedia.org/wiki/Node-RED) / [MQTT](https://de.wikipedia.org/wiki/MQTT) / [Mongoose OS](https://mongoose-os.com/) / [Elektro](https://github.com/griemide/Elektro) / [PCB](https://github.com/griemide/PCB) / [Balkonkraftwerk](https://github.com/griemide/Balkonkraftwerk)  
+[HomeKit](https://de.wikipedia.org/wiki/HomeKit) / [Homebridge](https://homebridge.io/) / [Node-RED](https://de.wikipedia.org/wiki/Node-RED) / [MQTT](https://de.wikipedia.org/wiki/MQTT) / [ThingSpeak](https://github.com/griemide/ThingSpeak) / [Mongoose OS](https://mongoose-os.com/) / [Elektro](https://github.com/griemide/Elektro) / [PCB](https://github.com/griemide/PCB) / [Balkonkraftwerk](https://github.com/griemide/Balkonkraftwerk)  
 
 
 Shelly HomeKit Release Notes [2.11.0](https://github.com/mongoose-os-apps/shelly-homekit/releases/tag/2.11.0) released 2022-06-19
